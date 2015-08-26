@@ -6,7 +6,7 @@ Support for Android 3.0 and up. It supports portrait and landscape mode, saving 
 
 Try out the sample application on [Google Play][1].
 
-<a href="https://play.google.com/store/apps/details?id=com.dpizarro.libraries.pinviewlibrary">
+<a href="https://play.google.com/store/apps/details?id=com.dpizarro.libraries.pinview">
   <img alt="PinView Sample on Google Play"
          src="http://developer.android.com/images/brand/en_app_rgb_wo_45.png" />
 </a>
@@ -160,6 +160,6 @@ License
     limitations under the License.
 ---
 
-[1]: https://play.google.com/store/apps/details?id=com.dpizarro.libraries.pinviewlibrary
+[1]: https://play.google.com/store/apps/details?id=com.dpizarro.libraries.pinview
 [2]: https://github.com/DavidPizarro/PinView/tree/master/app
 [3]: https://github.com/DavidPizarro/PinView/blob/master/library/src/main/res/values/attrs.xml
