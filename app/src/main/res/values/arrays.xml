@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <array name="small_titles">
+        <item>1st</item>
+        <item>2nd</item>
+        <item>3rd</item>
+        <item>4th</item>
+    </array>
+
+    <array name="titles">
+        <item>1st</item>
+        <item>2nd</item>
+        <item>3rd</item>
+        <item>4th</item>
+        <item>5th</item>
+        <item>6th</item>
+        <item>7th</item>
+        <item>8th</item>
+    </array>
+
+    <string-array name="random_splits">
+        <item>-</item>
+        <item>*</item>
+        <item>**</item>
+        <item>/</item>
+        <item>--</item>
+        <item>#</item>
+        <item>|</item>
+        <item>···</item>
+        <item/>
+    </string-array>
+</resources>

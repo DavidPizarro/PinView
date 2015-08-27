@@ -1,0 +1,25 @@
+<resources>
+
+    <style name="Box_PinView" parent="@android:style/Widget.EditText">
+        <item name="android:textSize">@dimen/pin_size</item>
+        <item name="android:gravity">center</item>
+        <item name="android:maxLength">1</item>
+        <item name="android:layout_margin">@dimen/space_between_pinbox</item>
+        <item name="android:padding">@dimen/edittext_padding</item>
+        <item name="android:inputType">numberPassword</item>
+        <item name="android:background">@drawable/pin_box</item>
+        <item name="android:clickable">true</item>
+        <item name="android:enabled">true</item>
+        <item name="android:focusable">true</item>
+        <item name="android:focusableInTouchMode">true</item>
+        <item name="android:textColor">@color/textbox_pinview</item>
+        <item name="android:imeActionLabel"/>
+    </style>
+
+    <style name="TextBox_PinView" parent="@android:style/Widget.TextView">
+        <item name="android:textSize">@dimen/pin_text_size</item>
+        <item name="android:textColor">@color/textbox_pinview</item>
+        <item name="android:gravity">center</item>
+    </style>
+
+</resources>

@@ -1,0 +1,4 @@
+<resources>
+    <dimen name="main_margin">10dp</dimen>
+    <dimen name="icon_login">120dp</dimen>
+</resources>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="PinView">
+        <attr name="numberPinBoxes"     format="integer"/>
+        <attr name="password"           format="boolean"/>
+        <attr name="numberCharacters"   format="integer"/>
+        <attr name="titles"             format="reference"/>
+        <attr name="split"              format="string"/>
+        <attr name="deleteOnClick"      format="boolean"/>
+        <attr name="keyboardMandatory"  format="boolean"/>
+        <attr name="nativePinBox"       format="boolean"/>
+        <attr name="drawablePinBox"     format="reference"/>
+        <attr name="colorTextPinBox"    format="color"/>
+        <attr name="colorTextTitles"    format="color"/>
+        <attr name="colorSplit"         format="color"/>
+        <attr name="textSizePinBox"     format="dimension"/>
+        <attr name="textSizeTitles"     format="dimension"/>
+        <attr name="sizeSplit"          format="dimension"/>
+    </declare-styleable>
+</resources>

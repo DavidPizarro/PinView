@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="space_between_pinbox">7dp</dimen>
+    <dimen name="pin_text_size">16dp</dimen>
+    <dimen name="pin_size">24dp</dimen>
+    <dimen name="edittext_padding">8dp</dimen>
+
+</resources>

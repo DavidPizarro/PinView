@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">PinView Sample</string>
+    <string name="password">Password</string>
+    <string name="delete">Delete on click</string>
+    <string name="custom_box">Custom box</string>
+    <string name="keyboard">Keyboard mandatory</string>
+    <string name="random_values">Random values</string>
+    <string name="login_example">Login example</string>
+    <string name="custom_example">Custom example</string>
+    <string name="enter_passcode">Please enter your passcode</string>
+    <string name="login_ok">Login successfully with PIN: </string>
+    <string name="clear_pin">CLEAR PIN</string>
+    <string name="number_pin_boxes">Number pin boxes</string>
+    <string name="login">Login</string>
+    <string name="loading">Loading…</string>
+    <string name="github">GitHub</string>
+</resources>
