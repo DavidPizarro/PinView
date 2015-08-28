@@ -36,14 +36,12 @@ import android.widget.TextView;
  *      PinView pinView;
  *      pinView.setOnCompleteListener(new PinView.OnCompleteListener() {
  *
- *          @Override
  *          public void onComplete(boolean completed, String pinResults) {
  *              //Do what you want
  *          }
  *      });
  *
  */
-@SuppressWarnings("unused")
 public class PinView extends PinViewBaseHelper {
 
     private PinViewSettings mPinViewSettings;

@@ -19,7 +19,6 @@ import android.widget.EditText;
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-@SuppressWarnings("unused")
 public class PinViewSettings implements Parcelable {
 
     /**

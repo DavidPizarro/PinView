@@ -3,7 +3,6 @@ package com.dpizarro.pinview.library;
 import android.app.Service;
 import android.content.Context;
 import android.content.res.TypedArray;
-import android.support.annotation.NonNull;
 import android.text.Editable;
 import android.text.InputFilter;
 import android.text.TextWatcher;
@@ -176,7 +175,6 @@ abstract class PinViewBaseHelper extends LinearLayout implements TextWatcher, Vi
      * @param inputType inputType to new PinBox
      * @return new PinBox
      */
-    @SuppressWarnings("deprecation")
     EditText generatePinBox(int i, int inputType) {
         EditText editText = (EditText) LayoutInflater.from(getContext()).inflate(R.layout.partial_pin_box, this, false);
         int generateViewId = PinViewUtils.generateViewId();
@@ -452,7 +450,7 @@ abstract class PinViewBaseHelper extends LinearLayout implements TextWatcher, Vi
      * Keyboard back button
      */
     @Override
-    public boolean dispatchKeyEventPreIme(@NonNull KeyEvent event) {
+    public boolean dispatchKeyEventPreIme(KeyEvent event) {
 
         if (mKeyboardMandatory) {
             if (getContext() != null) {
