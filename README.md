@@ -1,3 +1,5 @@
+[![Android Gems](http://www.android-gems.com/badge/DavidPizarro/PinView.svg?branch=master)](http://www.android-gems.com/lib/DavidPizarro/PinView)
+
 # PinView [![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-PinView-brightgreen.svg?style=flat)](http://android-arsenal.com/details/1/2411) [![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.github.davidpizarro/pinview/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.github.davidpizarro/pinview)
 
 A Pin view widget for Android. PinView has a feature that allows you to find out when they have completed all parameters. 
