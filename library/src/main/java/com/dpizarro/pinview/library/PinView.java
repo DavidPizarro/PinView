@@ -176,7 +176,7 @@ public class PinView extends PinViewBaseHelper {
     public void clear() {
 
         for (int i = 0; i < mNumberPinBoxes; i++) {
-            getPinBox(i).getText().clear();
+            getPinBox(i).setText("");
         }
         checkPinBoxesAvailableOrder();
     }
